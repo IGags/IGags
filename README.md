@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IGags
-- 👀 I’m interested in C# WinForms Applications, Fragment Shaders, SoundVisualization
+- 👀 I’m interested in C#, Fragment Shaders, SoundVisualization
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on - Nobody(possible Artist)
 - 📫 How to reach me ٴٴٴٴٴ#9696
